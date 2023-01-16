@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kevin.guenno@gmail.com
+	name = Kevin Guenno
